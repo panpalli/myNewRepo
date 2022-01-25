@@ -1,0 +1,2 @@
+# myNewRepo
+For class lesson
