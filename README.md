@@ -1,3 +1,3 @@
-# myNewRepo
-For class lesson
-instructions to understand 
+# LabTest
+Lab Testing
+testing editing feature with my class
